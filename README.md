@@ -52,9 +52,6 @@
   <a href="https://linkedin.com/in/apurba-kar-873419314">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="apurbakar1111@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
