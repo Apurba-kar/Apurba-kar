@@ -1,9 +1,9 @@
 <h1 align="center">Hi there! 👋 I'm Apurba Kar</h1>
-<h3 align="center">💻 Full Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
+<h3 align="center"> Full Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 ---
 
-### 🌟 About Me
+### About Me
 
 - 🎓 Currently learning and growing in the field of software development
 - 🚀 Passionate about building web apps, exploring AI, and solving real-world problems
@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
@@ -25,28 +25,21 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apurba-kar&show_icons=true&theme=github_dark" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurba-kar&layout=compact&theme=github_dark" />
+  <a href="http://www.github.com/Apurba-kar">
+    <img src="https://github-readme-stats.vercel.app/api?username=Apurba-kar&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&theme=github_dark&hide_border=true&show_icons=true" />
+  </a>
+  <span style="display:inline-block; width: 40px;"></span>
+  <a href="http://www.github.com/Apurba-kar">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurba-kar&layout=compact&theme=github_dark&hide_border=true" />
+  </a>
 </p>
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [notesappicp](https://github.com/Apurba-kar/notesappicp) | A notes app built using JS | JavaScript |
-| [SkillMatch-Completed](https://github.com/Apurba-kar/SkillMatch-Completed) | Platform to connect students & faculty | HTML |
-| [Movie-Search](https://github.com/Apurba-kar/Movie-Search) | Movie search app | JavaScript |
-| [phishing-extension](https://github.com/Apurba-kar/phishing-extension) | Anti-phishing browser extension | Python |
-
----
-
-### 🌐 Let's Connect
+### Let's Connect
 
 <p>
   <a href="https://linkedin.com/in/apurba-kar-873419314">
@@ -56,4 +49,4 @@
 
 ---
 
-✨ *Thanks for visiting my profile! Let’s build something amazing together!*
+ *Thanks for visiting my profile! Let’s build something amazing together!*
