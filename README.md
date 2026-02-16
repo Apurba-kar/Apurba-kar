@@ -5,12 +5,12 @@
 
 ### About Me
 
-- 🎓 Currently learning and growing in the field of software development
-- 🚀 Passionate about building web apps, exploring AI, and solving real-world problems
-- 💡 Interested in JavaScript, Python, and everything in between
-- 🧠 Always curious to learn new technologies
-- 🤝 Open to collaborate on open-source and student-led projects
-- 📫 Reach me at: *apurbakar1111@gmail.com*
+-  Currently learning and growing in the field of software development
+-  Passionate about building web apps, exploring AI, and solving real-world problems
+-  Interested in JavaScript, Python, and everything in between
+-  Always curious to learn new technologies
+-  Open to collaborate on open-source and student-led projects
+-  Reach me at: *apurbakar1111@gmail.com*
 
 ---
 
@@ -22,20 +22,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <a href="http://www.github.com/Apurba-kar">
-    <img src="https://github-readme-stats.vercel.app/api?username=Apurba-kar&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&theme=github_dark&hide_border=true&show_icons=true" />
-  </a>
-  <span style="display:inline-block; width: 40px;"></span>
-  <a href="http://www.github.com/Apurba-kar">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurba-kar&layout=compact&theme=github_dark&hide_border=true" />
-  </a>
-</p>
 
 ---
 
