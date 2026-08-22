@@ -48,7 +48,6 @@
     <img src="https://leetcard.jacoblin.cool/ak001_12?theme=dark" width="500" />
   </a>
 </p>
----
 
 ### Let's Connect
 
@@ -66,4 +65,4 @@
 
 ---
 
-*Thanks for visiting my profile! Let's build something amazing together! 🚀*
+*Thanks for visiting my profile!*
