@@ -35,11 +35,17 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/ak001_12">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ak001_12" width="400" />
+    <img
+      src="https://codeforces-readme-stats.vercel.app/api/card?username=ak001_12"
+      width="500"
+    />
   </a>
 
   <a href="https://leetcode.com/u/ak001_12/">
-    <img src="https://leetcard.jacoblin.cool/ak001_12?theme=dark" width="400" />
+    <img
+      src="https://leetcard.jacoblin.cool/ak001_12?theme=dark&width=500&height=250"
+      width="500"
+    />
   </a>
 </p>
 
