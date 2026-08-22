@@ -1,15 +1,19 @@
 <h1 align="center">Hi there! 👋 I'm Apurba Kar</h1>
-<h3 align="center">Software Developer | Competitive Programmer | AI Enthusiast</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Apurba-kar's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 ---
 
 ### About Me
 
-- 🎓 Engineering student at **IIT (ISM) Dhanbad**
-- 💻 Passionate about **software development, competitive programming, and AI**
-- 🔧 Experienced with **C++, Java, Python, JavaScript, React, Node.js, and MongoDB**
-- 🤝 Open to collaborating on **open-source and student-led projects**
-- 📫 Reach me at: *apurbakar1111@gmail.com*
+- Engineering student at **IIT (ISM) Dhanbad**
+- Passionate about **software development, competitive programming, and AI**
+- Experienced with **C++, Python, JavaScript, React, Node.js, Express.js, and MongoDB**
+- Open to collaborating on **open-source and student-led projects**
 
 ---
 
