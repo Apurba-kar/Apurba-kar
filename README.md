@@ -7,9 +7,6 @@
 
 - 🎓 Engineering student at **IIT (ISM) Dhanbad**
 - 💻 Passionate about **software development, competitive programming, and AI**
-- 🚀 Building full-stack applications and exploring real-world applications of AI
-- 🧠 Interested in **Data Structures & Algorithms**
-- 🤖 Exploring **AI-powered applications and modern web technologies**
 - 🔧 Experienced with **C++, Java, Python, JavaScript, React, Node.js, and MongoDB**
 - 🤝 Open to collaborating on **open-source and student-led projects**
 - 📫 Reach me at: *apurbakar1111@gmail.com*
@@ -36,18 +33,21 @@
 
 ### Competitive Programming
 
-<p>
+#### Codeforces
+
+<p align="center">
   <a href="https://codeforces.com/profile/ak001_12">
-    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=ak001_12" alt="Codeforces Rating" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ak001_12" width="500" />
   </a>
 </p>
 
-<p>
+#### LeetCode
+
+<p align="center">
   <a href="https://leetcode.com/u/ak001_12/">
-    <img src="https://leetcard.jacoblin.cool/ak001_12?theme=dark&hide=ranking" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/ak001_12?theme=dark" width="500" />
   </a>
 </p>
-
 ---
 
 ### Let's Connect
