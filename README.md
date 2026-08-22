@@ -36,10 +36,17 @@
 
 ### Competitive Programming
 
-- 🏆 **Codeforces:** Max Rating **982**
-- 💡 **LeetCode:** **56+ Problems Solved**
-- 📚 Focused on **Data Structures & Algorithms**
-- ⚡ Interested in **Dynamic Programming, Graphs, Greedy, Binary Search, and Optimization**
+<p>
+  <a href="https://codeforces.com/profile/ak001_12">
+    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=ak001_12" alt="Codeforces Rating" />
+  </a>
+</p>
+
+<p>
+  <a href="https://leetcode.com/u/ak001_12/">
+    <img src="https://leetcard.jacoblin.cool/ak001_12?theme=dark&hide=ranking" alt="LeetCode Stats" />
+  </a>
+</p>
 
 ---
 
